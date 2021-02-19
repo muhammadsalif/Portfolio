@@ -11,7 +11,7 @@
 ✔️ Contact me\
 ✔️ Github Profile
 
-To view a live example, **[click here](https://muhammadsalif/github.io/portfolio/)**.
+To view a live example, **[click here](https://muhammadsalif.github.io/portfolio/)**.
 
 ## How To Use 
 
